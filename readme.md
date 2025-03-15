@@ -17,7 +17,7 @@ Second number: Current major update version (i.e 0.1.10.01)
 
 Third number: Current week's number (Only goes up to 52 ever)
 
-Fourth number: Weekday realese (1-7)
+Fourth number: Weekday realese (1-7), may have a dot in the end if there are multiple realeses the same day
 
 Fifth number: Current game phase (1, Alpha, 2, beta, 3 early access, 4 final version)
 
