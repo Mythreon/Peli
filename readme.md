@@ -6,7 +6,7 @@ The game is currently only in Finnish, english translations will be added at som
 
 Current game version:
 0.0.10.6.1 (Alpha)
-Read full changelogs [Here](https://newyork.craigslist.org/d/missed-connections/search/mis 'The best place on the internet').
+Read full changelogs [Here](https://mythreon.github.io/Peli/changelogs.html).
 
 
 Explanation of the numbers
